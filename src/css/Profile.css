@@ -1,0 +1,28 @@
+.profile-container {
+    text-align: center;
+  }
+  
+  .profile-picture {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .profile-picture input[type="file"] {
+    display: none;
+  }
+  
+  .profile-picture label {
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  .profile-picture button {
+    background-color: #1976d2; 
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+  }
+  
